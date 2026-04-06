@@ -1,2 +1,0 @@
-# TREX
-Turbine Rotor Extractor
