@@ -23,7 +23,7 @@
 	d) TREX_UI
 	e) README (To know what you have to do).
 
-2. Run the "TREX_UI" file to open a UI for entering the inputs required to generate a Supersonic Impulse Turbine Symmetric Blade Profile.
+2. Run the "TREX_UI" file to open a UI for entering the inputs required to generate a Symmetric Supersonic Impulse Turbine Blade Profile.
 3. Get the coordinates of your profile in the "profiles" folder.
 4. If your interested in learning how the code works , you can go through the "TREX_AUTO" file.
 
